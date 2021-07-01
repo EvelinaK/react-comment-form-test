@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/comment-form/static/css/main.b060673b.chunk.css",
-    "main.js": "/comment-form/static/js/main.05f5707d.chunk.js",
-    "main.js.map": "/comment-form/static/js/main.05f5707d.chunk.js.map",
-    "runtime-main.js": "/comment-form/static/js/runtime-main.2a6fe317.js",
-    "runtime-main.js.map": "/comment-form/static/js/runtime-main.2a6fe317.js.map",
-    "static/css/2.d633d030.chunk.css": "/comment-form/static/css/2.d633d030.chunk.css",
-    "static/js/2.2e16e104.chunk.js": "/comment-form/static/js/2.2e16e104.chunk.js",
-    "static/js/2.2e16e104.chunk.js.map": "/comment-form/static/js/2.2e16e104.chunk.js.map",
-    "index.html": "/comment-form/index.html",
-    "static/css/2.d633d030.chunk.css.map": "/comment-form/static/css/2.d633d030.chunk.css.map",
-    "static/css/main.b060673b.chunk.css.map": "/comment-form/static/css/main.b060673b.chunk.css.map",
-    "static/js/2.2e16e104.chunk.js.LICENSE.txt": "/comment-form/static/js/2.2e16e104.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.min.css": "/comment-form/static/media/fontawesome-webfont.f691f37e.woff"
+    "main.css": "/comment-form-test/static/css/main.b060673b.chunk.css",
+    "main.js": "/comment-form-test/static/js/main.05f5707d.chunk.js",
+    "main.js.map": "/comment-form-test/static/js/main.05f5707d.chunk.js.map",
+    "runtime-main.js": "/comment-form-test/static/js/runtime-main.38482dee.js",
+    "runtime-main.js.map": "/comment-form-test/static/js/runtime-main.38482dee.js.map",
+    "static/css/2.e0c1e45b.chunk.css": "/comment-form-test/static/css/2.e0c1e45b.chunk.css",
+    "static/js/2.2e16e104.chunk.js": "/comment-form-test/static/js/2.2e16e104.chunk.js",
+    "static/js/2.2e16e104.chunk.js.map": "/comment-form-test/static/js/2.2e16e104.chunk.js.map",
+    "index.html": "/comment-form-test/index.html",
+    "static/css/2.e0c1e45b.chunk.css.map": "/comment-form-test/static/css/2.e0c1e45b.chunk.css.map",
+    "static/css/main.b060673b.chunk.css.map": "/comment-form-test/static/css/main.b060673b.chunk.css.map",
+    "static/js/2.2e16e104.chunk.js.LICENSE.txt": "/comment-form-test/static/js/2.2e16e104.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/comment-form-test/static/media/fontawesome-webfont.f691f37e.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.2a6fe317.js",
-    "static/css/2.d633d030.chunk.css",
+    "static/js/runtime-main.38482dee.js",
+    "static/css/2.e0c1e45b.chunk.css",
     "static/js/2.2e16e104.chunk.js",
     "static/css/main.b060673b.chunk.css",
     "static/js/main.05f5707d.chunk.js"
