@@ -16,13 +16,14 @@ function App() {
   const [offset, setOffset] = useState(0);
   const [pageCount, setPageCount] = useState(0);
   const [lastLoadedPage, setLastLoadedPage] = useState(1);
+
   const dispatch = useDispatch();
   const items = useSelector(getAllCont);
 
   useEffect(() => {
     dispatch(operations.getComment(offset));
-    setPageCount(Math.ceil(items.links?.length));
-  }, [dispatch, offset, items.length]);
+    setPageCount(Math.ceil(items?.last_page));
+  }, [dispatch, offset, items.last_page]);
 
   const handlePageClick = (e) => {
     const selectedPage = e.selected + 1;
@@ -62,6 +63,7 @@ function App() {
             containerClassName={"pagination"}
             subContainerClassName={"pages pagination"}
             activeClassName={"active"}
+            forcePage={lastLoadedPage - 1}
           />
         )}
       </>
